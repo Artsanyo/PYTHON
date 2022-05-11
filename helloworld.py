@@ -1,1 +1,3 @@
-print("hello world")
+a = True
+if a != False:
+  print("hello world")
