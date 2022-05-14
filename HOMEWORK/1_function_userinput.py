@@ -15,4 +15,3 @@ def reverse_alist (list_x):
 # print("Original list:", original_list)
 print("Reversed list:", reverse_alist(input("Please type your list: "))) #asign original_list as a parameter to reverse_alist function/call the function
 
-# _DOMInputSourceStringDataType
